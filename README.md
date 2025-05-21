@@ -6,7 +6,7 @@
     python notebook/crop_images.py
     ``` 
 
-- Test the topk results of our model:
+- [Real Bamboo Slips Datasets](https://1drv.ms/u/c/4851c5065d666952/EUtsyAMIqMlKpONJfRBidNsBMlkPr4eoC_SRixZ4LH9gMQ?e=ZyVVJJ) - Download this datasets and put this datasets into ViT_Bamboo_NeurIPS_Code/DATA. Test the topk results of our model:
     ```bash
     unzip DATA/SDD.zip
     sh test.sh
